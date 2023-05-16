@@ -55,6 +55,14 @@ const pages: MuiPage[] = [
         pathname: '/toolpad/building-ui/data-grid-component',
         title: 'Data Grid component',
       },
+      {
+        pathname: '/toolpad/building-ui/page-configuration',
+        title: 'Page configuration',
+      },
+      {
+        pathname: '/toolpad/building-ui/theming',
+        title: 'Theming',
+      },
     ],
   },
   {
@@ -78,7 +86,7 @@ const pages: MuiPage[] = [
   },
   {
     pathname: '/toolpad/schema-reference',
-    title: 'Schema Reference',
+    title: 'Schema reference',
     icon: SchemaIcon,
   },
 ];
